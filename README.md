@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lxjzfk
+- 👀 I’m interested in data modelling & solving problems
+- 🌱 I’m currently learning Django/Python
+- 💞️ I’m looking to collaborate on interesting software projects.
+- 📫 How to reach me lxjzfk@tuta.io
